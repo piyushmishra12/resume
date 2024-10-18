@@ -1,7 +1,8 @@
 <link rel="stylesheet" href="styles.css">
 
-# Piyush Mishra
-Ph.D. Student | piyush.mishra@univ-amu.fr
+## Piyush Mishra
+**Ph.D. Student**<br>
+piyush.mishra@univ-amu.fr
 
 ## **Experience**
 **Maths Inst. of Marseille & Fresnel Inst. (CNRS) | 2023/10 - Present**<br>
