@@ -35,9 +35,7 @@ Developed a prototype based on self-organising maps for outlier detection and as
 
 Dutta P., **Mishra P.**, Saha S. (2020). Incomplete multi-view gene clustering with data regeneration using Shape Boltzmann Machine. Computers in Biology and Medicine, Elsevier.
 
-**Mishra P.**, Sahoo D., Khandelwal H., Amman N., Sobhanayak S. (2020). Minimised Jaya Algorithm-based Structure optimisation for Heterogeneous
-
-Wireless Sensor Networks. In ICCCS.
+**Mishra P.**, Sahoo D., Khandelwal H., Amman N., Sobhanayak S. (2020). Minimised Jaya Algorithm-based Structure optimisation for Heterogeneous Wireless Sensor Networks. In ICCCS.
 
 ## **Education**
 **Aix-Marseille Univ. | Marseille, France | 2023 - Present**<br>
