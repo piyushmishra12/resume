@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="styles.css">
 
-## Piyush Mishra
+## **Piyush Mishra**
 **Ph.D. Student**<br>
 piyush.mishra@univ-amu.fr
 
