@@ -40,6 +40,8 @@ Dutta P., **Mishra P.**, Saha S. (2020). Incomplete multi-view gene clustering w
 
 **Mishra P.**, Sahoo D., Khandelwal H., Amman N., Sobhanayak S. (2020). Minimised Jaya Algorithm-based Structure optimisation for Heterogeneous Wireless Sensor Networks. In ICCCS.
 
+[Further details](https://piyushmishra12.github.io/publications/)
+
 ## **Education**
 **Aix-Marseille Univ. | Marseille, France | 2023 - Present**<br>
 Doctor of Philosophy, Maths (French Doctorate School of Maths, CS and Automatics, 184)
