@@ -6,7 +6,7 @@ piyush.mishra@univ-amu.fr
 
 ## **Experience**
 **Maths Inst. of Marseille & Fresnel Inst. (CNRS) | 2023/10 - Present**<br>
-***Doctoral Fellow***<br>
+***Doctoral Fellow (Turing Centre for Living Systems)***<br>
 Research algorithms for analysing microscopy images of cells in tissue-like environments by overcoming challenges associated with understanding complex molecular processes in these dynamic systems through combining algorithm design with experimental improvements to reduce reliance on *a priori* knowledge of particle movement.
 
 **Maths Inst. of Marseille | 2023/02 - 2023/07**<br>
