@@ -1,5 +1,6 @@
 <link rel="stylesheet" href="styles.css">
 
+[<img align="right" width="45" height="45" src="logo.jpeg">](https://piyushmishra12.github.io/)
 ## **Piyush Mishra**
 **Ph.D. Student**<br>
 piyush.mishra@univ-amu.fr
