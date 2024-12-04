@@ -61,7 +61,6 @@ B.Tech., Computer Science & Eng.<br>
 * Hindi (fluent)<br>
 * English (fluent)<br>
 * French (fluent)<br>
-* Occitan (beginner)
 
 **Music**<br>
 * Tabla player (Delhi school)
