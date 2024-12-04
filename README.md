@@ -55,3 +55,14 @@ M.S., Computational and Mathematical Biology (Turing Centre for Living Systems)<
 B.Tech., Computer Science & Eng.<br>
 8.51/10
 
+## **Other Skills**
+**Languages**<br>
+* Odia (spoken: fluent, written: beginner)<br>
+* Hindi (fluent)<br>
+* English (fluent)<br>
+* French (fluent)<br>
+* Occitan (beginner)
+
+**Music**<br>
+* Table player (Delhi school)
+* Hindustani classical singer (Gwalior school)
