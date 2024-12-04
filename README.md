@@ -64,5 +64,5 @@ B.Tech., Computer Science & Eng.<br>
 * Occitan (beginner)
 
 **Music**<br>
-* Table player (Delhi school)
+* Tabla player (Delhi school)
 * Hindustani classical singer (Gwalior school)
