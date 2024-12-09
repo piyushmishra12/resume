@@ -7,7 +7,7 @@ piyush.mishra@univ-amu.fr
 
 ## **Experience**
 **Maths Inst. of Marseille & Fresnel Inst. (CNRS) | 10.2023 - Present**<br>
-***Doctoral Fellow (Turing Centre for Living Systems)***<br>
+***Doctoral Fellow (Bioimage Mining Group, Turing Centre for Living Systems)***<br>
 Research algorithms for analysing microscopy images of cells in tissue-like environments by overcoming challenges associated with understanding complex molecular processes in these dynamic systems through combining algorithm design with experimental improvements to reduce reliance on *a priori* knowledge of particle movement.
 
 **Maths Inst. of Marseille | 02.2023 - 07.2023**<br>
@@ -15,7 +15,7 @@ Research algorithms for analysing microscopy images of cells in tissue-like envi
 Developed ideas to leverage the power of transformers to model the complex patterns and dependencies in fluorescence microscopy data.
 
 **State Univ. of New York (Stony Brook) | 04.2022 - 08.2022**<br>
-***Research Intern***<br>
+***Research Intern (Davuluri Group)***<br>
 Developed a transformer-based model for automated analysis of genomic sequences which could learn the grammar and patterns of DNA to uncover functional elements and potential applications.
 
 **Quantiphi Inc. | 01.2021 - 08.2021**<br>
