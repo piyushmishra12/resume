@@ -15,7 +15,7 @@ Research algorithms for analysing microscopy images of cells in tissue-like envi
 Developed ideas to leverage the power of transformers to model the complex patterns and dependencies in fluorescence microscopy data.
 
 **State Univ. of New York (Stony Brook) | 04.2022 - 08.2022**<br>
-***Research Intern (Davuluri Lab)***<br>
+***Research Intern***<br>
 Developed a transformer-based model for automated analysis of genomic sequences which could learn the grammar and patterns of DNA to uncover functional elements and potential applications.
 
 **Quantiphi Inc. | 01.2021 - 08.2021**<br>
