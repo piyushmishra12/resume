@@ -52,7 +52,7 @@ M.S., Computational and Mathematical Biology (Turing Centre for Living Systems)<
 18.13/20
 
 **International Inst. of Information Technology | Bhubaneswar, India | 2017 - 2021**<br>
-B.Tech., Computer Science & Eng.<br>
+B.Tech., Computer Science & Engineering <br>
 8.51/10
 
 ## **Other Skills**
