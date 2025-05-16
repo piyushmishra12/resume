@@ -4,6 +4,7 @@
 ## **Piyush Mishra**
 **Ph.D. Student**<br>
 piyush.mishra@univ-amu.fr
+[Skills based CV](https://piyushmishra12.github.io/resume/Piyush%20Mishra%20CV.pdf)
 
 ## **Experience**
 **Maths Inst. of Marseille & Fresnel Inst. (CNRS) | 10.2023 - Present**<br>
