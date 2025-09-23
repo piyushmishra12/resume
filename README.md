@@ -63,6 +63,6 @@ B.Tech., Computer Science & Engineering <br>
 * English (fluent)<br>
 * French (fluent)<br>
 
-**Music**<br>
-* Tabla player (Delhi school)
-* Hindustani classical singer (Gwalior school)
+**Classical Music**<br>
+* Tabla player (Delhi school, Prayag Sangeet Samiti Conservatory)
+* Hindustani classical singer (Gwalior school, Prayag Sangeet Samiti Conservatory)
