@@ -65,4 +65,4 @@ B.Tech., Computer Science & Engineering <br>
 
 **Classical Music**<br>
 * Tabla player (Delhi school, Prayag Sangeet Samiti Conservatory)
-* Hindustani classical singer (Gwalior school, Prayag Sangeet Samiti Conservatory)
+* Khayal singer (Gwalior school, Prayag Sangeet Samiti Conservatory)
